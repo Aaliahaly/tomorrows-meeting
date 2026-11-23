@@ -1,0 +1,40 @@
+34877823|t|Loss of renal olfactory receptor 1393 leads to improved glucose homeostasis in a type 1 diabetic mouse model.
+34877823|a|Renal olfactory receptor 1393 (Olfr1393) is an understudied sensory receptor that contributes to glucose handling in the proximal tubule. Our previous studies have indicated that this receptor may serve as a regulator of the sodium glucose co-transporters (SGLTs) and contributes to the development of glucose intolerance and hyperfiltration in the setting of diet-induced obesity. We hypothesized that Olfr1393 may have a similar function in Type 1 Diabetes. Using Olfr1393 wildtype (WT) and knockout (KO) mice along with streptozotocin (STZ) to induce pancreatic beta-cell depletion, we tracked the development and progression of diabetes over 12 weeks. Here we report that diabetic male Olfr1393 KO mice have a significant improvement in hyperglycemia and glucose tolerance, despite remaining susceptible to STZ. We also confirm that Olfr1393 localizes to the renal proximal tubule, and have uncovered additional expression within the glomerulus. Collectively, these data indicate that loss of renal Olfr1393 affords protection from STZ-induced type 1 diabetes and may be a general regulator of glucose handling in both health and disease.
+34877823	14	37	olfactory receptor 1393	Gene	258463
+34877823	56	63	glucose	Chemical	MESH:D005947
+34877823	81	96	type 1 diabetic	Disease	MESH:D003922
+34877823	97	102	mouse	Species	10090
+34877823	116	139	olfactory receptor 1393	Gene	258463
+34877823	141	149	Olfr1393	Gene	258463
+34877823	207	214	glucose	Chemical	MESH:D005947
+34877823	412	431	glucose intolerance	Disease	MESH:D018149
+34877823	483	490	obesity	Disease	MESH:D009765
+34877823	513	521	Olfr1393	Gene	258463
+34877823	553	568	Type 1 Diabetes	Disease	MESH:D003922
+34877823	576	584	Olfr1393	Gene	258463
+34877823	617	621	mice	Species	10090
+34877823	633	647	streptozotocin	Chemical	MESH:D013311
+34877823	649	652	STZ	Chemical	MESH:D013311
+34877823	742	750	diabetes	Disease	MESH:D003920
+34877823	786	794	diabetic	Disease	MESH:D003920
+34877823	800	808	Olfr1393	Gene	258463
+34877823	812	816	mice	Species	10090
+34877823	851	864	hyperglycemia	Disease	MESH:D006943
+34877823	869	876	glucose	Chemical	MESH:D005947
+34877823	921	924	STZ	Chemical	MESH:D013311
+34877823	947	955	Olfr1393	Gene	258463
+34877823	1113	1121	Olfr1393	Gene	258463
+34877823	1146	1149	STZ	Chemical	MESH:D013311
+34877823	1158	1173	type 1 diabetes	Disease	MESH:D003922
+34877823	1208	1215	glucose	Chemical	MESH:D005947
+34877823	Association	MESH:D005947	MESH:D003920
+34877823	Positive_Correlation	MESH:D013311	MESH:D003922
+34877823	Association	MESH:D005947	258463
+34877823	Positive_Correlation	MESH:D013311	MESH:D003920
+34877823	Association	MESH:D013311	258463
+34877823	Association	MESH:D003920	258463
+34877823	Association	MESH:D006943	258463
+34877823	Association	MESH:D009765	258463
+34877823	Association	MESH:D018149	258463
+34877823	Association	MESH:D003922	258463
+

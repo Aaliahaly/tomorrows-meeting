@@ -1,0 +1,6 @@
+33326746|t|High-Throughput Discovery and Characterization of Human Transcriptional Effectors.
+33326746|a|Thousands of proteins localize to the nucleus; however, it remains unclear which contain transcriptional effectors. Here, we develop HT-recruit, a pooled assay where protein libraries are recruited to a reporter, and their transcriptional effects are measured by sequencing. Using this approach, we measure gene silencing and activation for thousands of domains. We find a relationship between repressor function and evolutionary age for the KRAB domains, discover that Homeodomain repressor strength is collinear with Hox genetic organization, and identify activities for several domains of unknown function. Deep mutational scanning of the CRISPRi KRAB maps the co-repressor binding surface and identifies substitutions that improve stability/silencing. By tiling 238 proteins, we find repressors as short as ten amino acids. Finally, we report new activator domains, including a divergent KRAB. These results provide a resource of 600 human proteins containing effectors and demonstrate a scalable strategy for assigning functions to protein domains.
+33326746	50	55	Human	Species	9606
+33326746	725	732	CRISPRi	Species	
+33326746	1021	1026	human	Species	9606
+

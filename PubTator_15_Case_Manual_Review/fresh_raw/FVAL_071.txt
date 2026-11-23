@@ -1,0 +1,29 @@
+30578317|t|The ER membrane protein complex promotes biogenesis of sterol-related enzymes maintaining cholesterol homeostasis.
+30578317|a|The eukaryotic endoplasmic reticulum (ER) membrane contains essential complexes that oversee protein biogenesis and lipid metabolism, impacting nearly all aspects of cell physiology. The ER membrane protein complex (EMC) is a newly described transmembrane domain (TMD) insertase linked with various phenotypes, but whose clients and cellular responsibilities remain incompletely understood. We report that EMC deficiency limits the cellular boundaries defining cholesterol tolerance, reflected by diminished viability with limiting or excessive extracellular cholesterol. Lipidomic and proteomic analyses revealed defective biogenesis and concomitant loss of the TMD-containing ER-resident enzymes sterol-O-acyltransferase 1 (SOAT1) and squalene synthase (SQS, also known as FDFT1), which serve strategic roles in the adaptation of cells to changes in cholesterol availability. Insertion of the weakly hydrophobic tail-anchor (TA) of SQS into the ER membrane by the EMC ensures sufficient flux through the sterol biosynthetic pathway while biogenesis of polytopic SOAT1 promoted by the EMC provides cells with the ability to store free cholesterol as inert cholesteryl esters. By facilitating insertion of TMDs that permit essential mammalian sterol-regulating enzymes to mature accurately, the EMC is an important biogenic determinant of cellular robustness to fluctuations in cholesterol availability.This article has an associated First Person interview with the first author of the paper.
+30578317	55	61	sterol	Chemical	MESH:D013261
+30578317	90	101	cholesterol	Chemical	MESH:D002784
+30578317	231	236	lipid	Chemical	MESH:D008055
+30578317	521	535	EMC deficiency	Disease	MESH:D015433
+30578317	576	587	cholesterol	Chemical	MESH:D002784
+30578317	674	685	cholesterol	Chemical	MESH:D002784
+30578317	813	839	sterol-O-acyltransferase 1	Gene	6646
+30578317	841	846	SOAT1	Gene	6646
+30578317	852	869	squalene synthase	Gene	2222
+30578317	871	874	SQS	Gene	2222
+30578317	890	895	FDFT1	Gene	2222
+30578317	967	978	cholesterol	Chemical	MESH:D002784
+30578317	1049	1052	SQS	Gene	2222
+30578317	1121	1127	sterol	Chemical	MESH:D013261
+30578317	1179	1184	SOAT1	Gene	6646
+30578317	1251	1262	cholesterol	Chemical	MESH:D002784
+30578317	1272	1290	cholesteryl esters	Chemical	MESH:D002788
+30578317	1358	1364	sterol	Chemical	MESH:D013261
+30578317	1493	1504	cholesterol	Chemical	MESH:D002784
+30578317	Association	MESH:D002784	MESH:D015433
+30578317	Association	MESH:D013261	6646
+30578317	Association	MESH:D013261	2222
+30578317	Association	MESH:D002784	MESH:D002788
+30578317	Association	MESH:D002784	MESH:D013261
+30578317	Association	MESH:D002784	6646
+30578317	Association	MESH:D002784	2222
+

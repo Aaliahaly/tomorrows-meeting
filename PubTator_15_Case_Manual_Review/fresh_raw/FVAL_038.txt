@@ -1,0 +1,23 @@
+36650210|t|A deeply conserved protease, acylamino acid-releasing enzyme (AARE), acts in ageing in Physcomitrella and Arabidopsis.
+36650210|a|Reactive oxygen species (ROS) are constant by-products of aerobic life. In excess, ROS lead to cytotoxic protein aggregates, which are a hallmark of ageing in animals and linked to age-related pathologies in humans. Acylamino acid-releasing enzymes (AARE) are bifunctional serine proteases, acting on oxidized proteins. AARE are found in all domains of life, albeit under different names, such as acylpeptide hydrolase (APEH/ACPH), acylaminoacyl peptidase (AAP), or oxidized protein hydrolase (OPH). In humans, AARE malfunction is associated with age-related pathologies, while their function in plants is less clear. Here, we provide a detailed analysis of AARE genes in the plant lineage and an in-depth analysis of AARE localization and function in the moss Physcomitrella and the angiosperm Arabidopsis. AARE loss-of-function mutants have not been described for any organism so far. We generated and analysed such mutants and describe a connection between AARE function, aggregation of oxidized proteins and plant ageing, including accelerated developmental progression and reduced life span. Our findings complement similar findings in animals and humans, and suggest a unified concept of ageing may exist in different life forms.
+36650210	29	60	acylamino acid-releasing enzyme	Gene	327
+36650210	87	101	Physcomitrella	Species	3217
+36650210	106	117	Arabidopsis	Species	3702
+36650210	119	142	Reactive oxygen species	Chemical	MESH:D017382
+36650210	144	147	ROS	Chemical	MESH:D017382
+36650210	202	205	ROS	Chemical	MESH:D017382
+36650210	214	223	cytotoxic	Disease	MESH:D064420
+36650210	327	333	humans	Species	9606
+36650210	516	537	acylpeptide hydrolase	Gene	327
+36650210	539	543	APEH	Gene	327
+36650210	544	548	ACPH	Gene	327
+36650210	551	574	acylaminoacyl peptidase	Gene	327
+36650210	576	579	AAP	Gene	327
+36650210	585	611	oxidized protein hydrolase	Gene	327
+36650210	613	616	OPH	Gene	327
+36650210	622	628	humans	Species	9606
+36650210	880	894	Physcomitrella	Species	3217
+36650210	914	925	Arabidopsis	Species	3702
+36650210	1272	1278	humans	Species	9606
+36650210	Positive_Correlation	MESH:D017382	MESH:D064420
+

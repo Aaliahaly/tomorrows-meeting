@@ -1,0 +1,41 @@
+35895804|t|TNK2/ACK1-mediated phosphorylation of ATP5F1A (ATP synthase F1 subunit alpha) selectively augments survival of prostate cancer while engendering mitochondrial vulnerability.
+35895804|a|The challenge of rapid macromolecular synthesis enforces the energy-hungry cancer cell mitochondria to switch their metabolic phenotypes, accomplished by activation of oncogenic tyrosine kinases. Precisely how kinase activity is directly exploited by cancer cell mitochondria to meet high-energy demand, remains to be deciphered. Here we show that a non-receptor tyrosine kinase, TNK2/ACK1 (tyrosine kinase non receptor 2), phosphorylated ATP5F1A (ATP synthase F1 subunit alpha) at Tyr243 and Tyr246 (Tyr200 and 203 in the mature protein, respectively) that not only increased the stability of complex V, but also increased mitochondrial energy output in cancer cells. Further, phospho-ATP5F1A (p-Y-ATP5F1A) prevented its binding to its physiological inhibitor, ATP5IF1 (ATP synthase inhibitory factor subunit 1), causing sustained mitochondrial activity to promote cancer cell growth. TNK2 inhibitor, (R)-9b reversed this process and induced mitophagy-based autophagy to mitigate prostate tumor growth while sparing normal prostate cells. Further, depletion of p-Y-ATP5F1A was needed for (R)-9b-mediated mitophagic response and tumor growth. Moreover, Tnk2 transgenic mice displayed increased p-Y-ATP5F1A and loss of mitophagy and exhibited formation of prostatic intraepithelial neoplasia (PINs). Consistent with these data, a marked increase in p-Y-ATP5F1A was seen as prostate cancer progressed to the malignant stage. Overall, this study uncovered the molecular intricacy of tyrosine kinase-mediated mitochondrial energy regulation as a distinct cancer cell mitochondrial vulnerability and provided evidence that TNK2 inhibitors can act as "mitocans" to induce cancer-specific mitophagy.Abbreviations: ATP5F1A: ATP synthase F1 subunit alpha; ATP5IF1: ATP synthase inhibitory factor subunit 1; CRPC: castration-resistant prostate cancer; DNM1L: dynamin 1 like; MAP1LC3B/LC3B: microtubule associated protein 1 light chain 3 beta; Mdivi-1: mitochondrial division inhibitor 1; Mut-ATP5F1A: Y243,246A mutant of ATP5F1A; OXPHOS: oxidative phosphorylation; PC: prostate cancer; PINK1: PTEN induced kinase 1; p-Y-ATP5F1A: phosphorylated tyrosine 243 and 246 on ATP5F1A; TNK2/ACK1: tyrosine kinase non receptor 2; Ub: ubiquitin; WT: wild type.
+35895804	0	4	TNK2	Gene	51789
+35895804	5	9	ACK1	Gene	51789
+35895804	111	126	prostate cancer	Disease	MESH:D011471
+35895804	249	255	cancer	Disease	MESH:D009369
+35895804	425	431	cancer	Disease	MESH:D009369
+35895804	554	558	TNK2	Gene	51789
+35895804	559	563	ACK1	Gene	51789
+35895804	565	595	tyrosine kinase non receptor 2	Gene	51789
+35895804	829	835	cancer	Disease	MESH:D009369
+35895804	1040	1046	cancer	Disease	MESH:D009369
+35895804	1060	1064	TNK2	Gene	51789
+35895804	1076	1082	(R)-9b	Chemical	-
+35895804	1155	1169	prostate tumor	Disease	MESH:D011472
+35895804	1303	1308	tumor	Disease	MESH:D009369
+35895804	1327	1331	Tnk2	Gene	51789
+35895804	1343	1347	mice	Species	10090
+35895804	1429	1464	prostatic intraepithelial neoplasia	Disease	MESH:D019048
+35895804	1466	1470	PINs	Disease	MESH:D019048
+35895804	1546	1561	prostate cancer	Disease	MESH:D011471
+35895804	1725	1731	cancer	Disease	MESH:D009369
+35895804	1792	1796	TNK2	Gene	51789
+35895804	1840	1846	cancer	Disease	MESH:D009369
+35895804	1972	1976	CRPC	Disease	
+35895804	1978	2014	castration-resistant prostate cancer	Disease	MESH:D064129
+35895804	2016	2021	DNM1L	Gene	74006
+35895804	2023	2037	dynamin 1 like	Gene	74006
+35895804	2039	2047	MAP1LC3B	Gene	67443
+35895804	2048	2052	LC3B	Gene	67443
+35895804	2054	2105	microtubule associated protein 1 light chain 3 beta	Gene	67443
+35895804	2229	2231	PC	Disease	MESH:D015324
+35895804	2233	2248	prostate cancer	Disease	MESH:D011471
+35895804	2250	2255	PINK1	Gene	68943
+35895804	2341	2345	TNK2	Gene	51789
+35895804	2346	2350	ACK1	Gene	51789
+35895804	2352	2382	tyrosine kinase non receptor 2	Gene	51789
+35895804	Association	MESH:D019048	51789
+35895804	Association	MESH:D011471	51789
+35895804	Association	MESH:D011472	51789
+

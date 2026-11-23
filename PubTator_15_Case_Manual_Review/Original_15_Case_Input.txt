@@ -1,0 +1,170 @@
+V5 DIAGNOSTIC REGRESSION TEST — 15 CASES
+Use the frozen V5 Gem instructions already configured.
+Process every target independently and return exactly the required 14-column Markdown table.
+Do not use outside information.
+
+
+Test_ID: FVAL_001
+PMID: 7814013
+UniProtKB_Accession: P00439
+Protein_or_Gene_Name: Phenylalanine-4-hydroxylase
+All_Possible_Protein_and_Gene_Names: Phenylalanine-4-hydroxylase; Phe-4-monooxygenase
+Title: PKU in Slovakia: mutation screening and haplotype analysis.
+Abstract: The restriction fragment length polymorphism haplotypes and seven common mutations in the phenylalanine hydroxylase gene were analysed in 49 unrelated Slovak phenylketonuria (PKU) families of Caucasian origin. The predominant mutation in this population sample is R408W, with a frequency of 45.9%. In addition, four other mutations have been identified at relatively high frequencies: IVS12nt1, 10.2%; R158Q, 7.1%; R261Q, 7.1%; R252W, 2.0%. The mutation-haplotype associations correspond to those described in other European populations. The high proportion of mutations (72.4%) amenable to simple rapid detection based on the polymerase chain reaction provides a good basis for direct DNA-diagnosis of PKU in the Slovak population.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_012
+PMID: 33326746
+UniProtKB_Accession: P00519
+Protein_or_Gene_Name: ABL1
+All_Possible_Protein_and_Gene_Names: ABL1; Abelson murine leukemia viral oncogene homolog 1; Abelson tyrosine-protein kinase 1; Proto-oncogene c-Abl; p150; Tyrosine-protein kinase ABL1; ABL; JTK7
+Title: High-Throughput Discovery and Characterization of Human Transcriptional Effectors.
+Abstract: Thousands of proteins localize to the nucleus; however, it remains unclear which contain transcriptional effectors. Here, we develop HT-recruit, a pooled assay where protein libraries are recruited to a reporter, and their transcriptional effects are measured by sequencing. Using this approach, we measure gene silencing and activation for thousands of domains. We find a relationship between repressor function and evolutionary age for the KRAB domains, discover that Homeodomain repressor strength is collinear with Hox genetic organization, and identify activities for several domains of unknown function. Deep mutational scanning of the CRISPRi KRAB maps the co-repressor binding surface and identifies substitutions that improve stability/silencing. By tiling 238 proteins, we find repressors as short as ten amino acids. Finally, we report new activator domains, including a divergent KRAB. These results provide a resource of 600 human proteins containing effectors and demonstrate a scalable strategy for assigning functions to protein domains.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_013
+PMID: 41132155
+UniProtKB_Accession: A5A615
+Protein_or_Gene_Name: Small membrane protein
+All_Possible_Protein_and_Gene_Names: Small membrane protein; YncL; Uncharacterized protein YncL
+Title: The small bacterial membrane protein YohP induces nucleoid condensation in E. coli and inhibits oligomerization of antimicrobial peptides.
+Abstract: Prokaryotic organisms execute multiple stress response mechanisms in order to cope with rapidly changing environments. Some mechanisms respond to specific cues, such as the OxyR-dependent response to hydrogen peroxide or the SOS-response that is induced upon DNA-damage. These specific responses complement general mechanisms that respond to multiple and diverse stressors. One example is nucleoid condensation, which is a rapid and effective mechanism for genome protection and observed in response to various stresses, including entry into stationary phase. Recently, the upregulation of small membrane proteins (SMPs) in response to stress was observed, but details on how this emerging class of proteins modulate the stress response is largely unknown. Here, we demonstrate that the production of two SMPs, YohP and YncL, cause nucleoid condensation in Escherichia coli. Nucleoid condensation is the result of YohP-/YncL-induced sublethal membrane depolarization, which induces the phage-shock response and leads to a reduction of global protein synthesis. YohP production also prevents the oligomerization of the antimicrobial peptide magainin-2 in the E. coli membrane and reduces the metabolic activity of E. coli cells. Thus, the synthesis of YohP and likely of other SMPs potentially protects bacterial cells against some unfavorable conditions by shifting them into a metabolically silent state.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_015
+PMID: 38287013
+UniProtKB_Accession: O06724
+Protein_or_Gene_Name: YisK
+All_Possible_Protein_and_Gene_Names: YisK; BSU10750; OAT; Oxaloacetate decarboxylase YisK; Oxaloacetate tautomerase YisK
+Title: A universal metabolite repair enzyme removes a strong inhibitor of the TCA cycle.
+Abstract: A prevalent side-reaction of succinate dehydrogenase oxidizes malate to enol-oxaloacetate (OAA), a metabolically inactive form of OAA that is a strong inhibitor of succinate dehydrogenase. We purified from cow heart mitochondria an enzyme (OAT1) with OAA tautomerase (OAT) activity that converts enol-OAA to the physiological keto-OAA form, and determined that it belongs to the highly conserved and previously uncharacterized Fumarylacetoacetate_hydrolase_domain-containing protein family. From all three domains of life, heterologously expressed proteins were shown to have strong OAT activity, and ablating the OAT1 homolog caused significant growth defects. In Escherichia coli, expression of succinate dehydrogenase was necessary for OAT1-associated growth defects to occur, and ablating OAT1 caused a significant increase in acetate and other metabolites associated with anaerobic respiration. OAT1 increased the succinate dehydrogenase reaction rate by 35% in in vitro assays with physiological concentrations of both succinate and malate. Our results suggest that OAT1 is a universal metabolite repair enzyme that is required to maximize aerobic respiration efficiency by preventing succinate dehydrogenase inhibition.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_019
+PMID: 27187419
+UniProtKB_Accession: A0A0C5PRL1
+Protein_or_Gene_Name: MytiLec-3
+All_Possible_Protein_and_Gene_Names: MytiLec-3
+Title: cDNA and Gene Structure of MytiLec-1, A Bacteriostatic R-Type Lectin from the Mediterranean Mussel (Mytilus galloprovincialis).
+Abstract: MytiLec is an α-d-galactose-binding lectin with a unique primary structure isolated from the Mediterranean mussel (Mytilus galloprovincialis). The lectin adopts a β-trefoil fold that is also found in the B-sub-unit of ricin and other ricin-type (R-type) lectins. We are introducing MytiLec(-1) and its two variants (MytiLec-2 and -3), which both possess an additional pore-forming aerolysin-like domain, as members of a novel multi-genic "mytilectin family" in bivalve mollusks. Based on the full length mRNA sequence (911 bps), it was possible to elucidate the coding sequence of MytiLec-1, which displays an extended open reading frame (ORF) at the 5' end of the sequence, confirmed both at the mRNA and at the genomic DNA sequence level. While this extension could potentially produce a polypeptide significantly longer than previously reported, this has not been confirmed yet at the protein level. MytiLec-1 was revealed to be encoded by a gene consisting of two exons and a single intron. The first exon comprised the 5'UTR and the initial ATG codon and it was possible to detect a putative promoter region immediately ahead of the transcription start site in the MytiLec-1 genomic locus. The remaining part of the MytiLec-1 coding sequence (including the three sub-domains, the 3'UTR and the poly-A signal) was included in the second exon. The bacteriostatic activity of MytiLec-1 was determined by the agglutination of both Gram-positive and Gram-negative bacteria, which was reversed by the co-presence of α-galactoside. Altogether, these data support the classification of MytiLec-1 as a member of the novel mytilectin family and suggest that this lectin may play an important role as a pattern recognition receptor in the innate immunity of mussels.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_027
+PMID: 33044064
+UniProtKB_Accession: P03641
+Protein_or_Gene_Name: F protein
+All_Possible_Protein_and_Gene_Names: F protein; GPF; Capsid protein F
+Title: Genome Modularization Reveals Overlapped Gene Topology Is Necessary for Efficient Viral Reproduction.
+Abstract: Sequence overlap between two genes is common across all genomes, with viruses having high proportions of these gene overlaps. Genome modularization and refactoring is the process of disrupting natural gene overlaps to separate coding sequences to enable their individual manipulation. The biological function and fitness effects of gene overlaps are not fully understood, and their effects on gene cluster and genome-level refactoring are unknown. The bacteriophage φX174 genome has ∼26% of nucleotides involved in encoding more than one gene. In this study we use an engineered φX174 phage containing a genome with all gene overlaps removed to show that gene overlap is critical to maintaining optimal viral fecundity. Through detailed phenotypic measurements we reveal that genome modularization in φX174 causes virion replication, stability, and attachment deficiencies. Quantitation of the complete phage proteome across an infection cycle reveals 30% of proteins display abnormal expression patterns. Taken together, we have for the first time comprehensively demonstrated that gene modularization severely perturbs the coordinated functioning of a bacteriophage replication cycle. This work highlights the biological importance of gene overlap in natural genomes and that reducing gene overlap disruption should be an integral part of future genome engineering projects.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_035
+PMID: 39856097
+UniProtKB_Accession: A8RZR5
+Protein_or_Gene_Name: UcdC
+All_Possible_Protein_and_Gene_Names: UcdC; Urolithin C dehydroxylase C; FAD-binding PCMH-type domain-containing protein
+Title: Diet-derived urolithin A is produced by a dehydroxylase encoded by human gut Enterocloster species.
+Abstract: Urolithin A (uroA) is a polyphenol derived from the multi-step metabolism of dietary ellagitannins by the human gut microbiota. Once absorbed, uroA can trigger mitophagy and aryl hydrocarbon receptor signaling pathways, altering host immune function, mitochondrial health, and intestinal barrier integrity. Most individuals harbor a microbiota capable of uroA production; however, the mechanisms underlying the dehydroxylation of its catechol-containing precursor (uroC) are unknown. Here, we use a combination of untargeted bacterial transcriptomics, proteomics, and comparative genomics to uncover an inducible uroC dehydroxylase (ucd) operon in Enterocloster species. We show that the ucd operon encodes a predicted molybdopterin-dependent enzyme complex that dehydroxylates urolithins at a specific position (9-OH). By interrogating publicly available metagenomics datasets, we observed that uroC-metabolizing Enterocloster species and ucd operon genes are prevalent in human feces. In ex vivo experiments with human fecal samples, only samples actively transcribing ucd could produce uroA, possibly explaining differences in urolithin metabolism between individuals. Collectively, this work identifies Enterocloster species and the ucd operon as important contributors to uroA production and establishes a multi-omics framework to further our mechanistic understanding of polyphenol metabolism by the human gut microbiota.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_038
+PMID: 36650210
+UniProtKB_Accession: A9SN79
+Protein_or_Gene_Name: Acylamino acid-releasing enzyme
+All_Possible_Protein_and_Gene_Names: Acylamino acid-releasing enzyme; AARE; PpAARE3; acylaminoacyl-peptidase
+Title: A deeply conserved protease, acylamino acid-releasing enzyme (AARE), acts in ageing in Physcomitrella and Arabidopsis.
+Abstract: Reactive oxygen species (ROS) are constant by-products of aerobic life. In excess, ROS lead to cytotoxic protein aggregates, which are a hallmark of ageing in animals and linked to age-related pathologies in humans. Acylamino acid-releasing enzymes (AARE) are bifunctional serine proteases, acting on oxidized proteins. AARE are found in all domains of life, albeit under different names, such as acylpeptide hydrolase (APEH/ACPH), acylaminoacyl peptidase (AAP), or oxidized protein hydrolase (OPH). In humans, AARE malfunction is associated with age-related pathologies, while their function in plants is less clear. Here, we provide a detailed analysis of AARE genes in the plant lineage and an in-depth analysis of AARE localization and function in the moss Physcomitrella and the angiosperm Arabidopsis. AARE loss-of-function mutants have not been described for any organism so far. We generated and analysed such mutants and describe a connection between AARE function, aggregation of oxidized proteins and plant ageing, including accelerated developmental progression and reduced life span. Our findings complement similar findings in animals and humans, and suggest a unified concept of ageing may exist in different life forms.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_044
+PMID: 24943072
+UniProtKB_Accession: A0A6H1V666
+Protein_or_Gene_Name: OspD
+All_Possible_Protein_and_Gene_Names: OspD; Radical S-adenosyl methionine epimerase; Radical SAM epimerase; rSAM epimerase
+Title: Radical S-adenosyl methionine epimerases: regioselective introduction of diverse D-amino acid patterns into peptide natural products.
+Abstract: PoyD is a radical S-adenosyl methionine epimerase that introduces multiple D-configured amino acids at alternating positions into the highly complex marine peptides polytheonamide A and B. This novel post-translational modification contributes to the ability of the polytheonamides to form unimolecular minimalistic ion channels and its cytotoxic activity at picomolar levels. Using a genome mining approach we have identified additional PoyD homologues in various bacteria. Three enzymes were expressed in E. coli with their cognate as well as engineered peptide precursors and shown to introduce diverse D-amino acid patterns into all-L peptides. The data reveal a family of architecturally and functionally distinct enzymes that exhibit high regioselectivity, substrate promiscuity, and irreversible action and thus provide attractive opportunities for peptide engineering.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_045
+PMID: 26558717
+UniProtKB_Accession: Q9Z2H6
+Protein_or_Gene_Name: Clecsf8
+All_Possible_Protein_and_Gene_Names: Clecsf8; MCL; Clec4d; C-type lectin superfamily member 8; Dendritic cell-associated C-type lectin 3; Macrophage-restricted C-type lectin; C-type lectin domain family 4 member D
+Title: Mycobacterial receptor, Clec4d (CLECSF8, MCL), is coregulated with Mincle and upregulated on mouse myeloid cells following microbial challenge.
+Abstract: The C-type lectin receptor (CTLR), Clec4d (MCL, CLECSF8), is a member of the Dectin-2 cluster of CTLRs, which also includes the related receptors Mincle and Dectin-2. Like Mincle, Clec4d recognizes mycobacterial cord factor, trehalose dimycolate, and we recently demonstrated its key role in anti-mycobacterial immunity in mouse and man. Here, we characterized receptor expression in naïve mice, under inflammatory conditions, and during Mycobacterium bovis BCG infection using newly generated monoclonal antibodies. In naïve mice, Clec4d was predominantly expressed on myeloid cells within the peritoneal cavity, blood, and bone marrow. Unexpectedly, basal expression of Clec4d was very low on leukocytes in the lung. However, receptor expression was significantly upregulated on pulmonary myeloid cells during M. bovis BCG infection. Moreover, Clec4d expression could be strongly induced in vitro and in vivo by various microbial stimuli, including TLR agonists, but not exogenous cytokines. Notably, we show that Clec4d requires association with the signaling adaptor FcRγ and Mincle, but not Dectin-2, for surface expression. In addition, we provide evidence that Clec4d and Mincle, but not Dectin-2, are interdependently coregulated during inflammation and infection. These data show that Clec4d is an inducible myeloid-expressed CTLR in mice, whose expression is tightly linked to that of Mincle.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_046
+PMID: 35895804
+UniProtKB_Accession: Q07912
+Protein_or_Gene_Name: Tyrosine kinase non-receptor protein 2
+All_Possible_Protein_and_Gene_Names: Tyrosine kinase non-receptor protein 2; Activated CDC42 kinase 1; ACK1; TNK2; tyrosine kinase non receptor 2
+Title: TNK2/ACK1-mediated phosphorylation of ATP5F1A (ATP synthase F1 subunit alpha) selectively augments survival of prostate cancer while engendering mitochondrial vulnerability.
+Abstract: The challenge of rapid macromolecular synthesis enforces the energy-hungry cancer cell mitochondria to switch their metabolic phenotypes, accomplished by activation of oncogenic tyrosine kinases. Precisely how kinase activity is directly exploited by cancer cell mitochondria to meet high-energy demand, remains to be deciphered. Here we show that a non-receptor tyrosine kinase, TNK2/ACK1 (tyrosine kinase non receptor 2), phosphorylated ATP5F1A (ATP synthase F1 subunit alpha) at Tyr243 and Tyr246 (Tyr200 and 203 in the mature protein, respectively) that not only increased the stability of complex V, but also increased mitochondrial energy output in cancer cells. Further, phospho-ATP5F1A (p-Y-ATP5F1A) prevented its binding to its physiological inhibitor, ATP5IF1 (ATP synthase inhibitory factor subunit 1), causing sustained mitochondrial activity to promote cancer cell growth. TNK2 inhibitor, (R)-9b reversed this process and induced mitophagy-based autophagy to mitigate prostate tumor growth while sparing normal prostate cells. Further, depletion of p-Y-ATP5F1A was needed for (R)-9b-mediated mitophagic response and tumor growth. Moreover, Tnk2 transgenic mice displayed increased p-Y-ATP5F1A and loss of mitophagy and exhibited formation of prostatic intraepithelial neoplasia (PINs). Consistent with these data, a marked increase in p-Y-ATP5F1A was seen as prostate cancer progressed to the malignant stage. Overall, this study uncovered the molecular intricacy of tyrosine kinase-mediated mitochondrial energy regulation as a distinct cancer cell mitochondrial vulnerability and provided evidence that TNK2 inhibitors can act as "mitocans" to induce cancer-specific mitophagy.Abbreviations: ATP5F1A: ATP synthase F1 subunit alpha; ATP5IF1: ATP synthase inhibitory factor subunit 1; CRPC: castration-resistant prostate cancer; DNM1L: dynamin 1 like; MAP1LC3B/LC3B: microtubule associated protein 1 light chain 3 beta; Mdivi-1: mitochondrial division inhibitor 1; Mut-ATP5F1A: Y243,246A mutant of ATP5F1A; OXPHOS: oxidative phosphorylation; PC: prostate cancer; PINK1: PTEN induced kinase 1; p-Y-ATP5F1A: phosphorylated tyrosine 243 and 246 on ATP5F1A; TNK2/ACK1: tyrosine kinase non receptor 2; Ub: ubiquitin; WT: wild type.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_063
+PMID: 34877823
+UniProtKB_Accession: Q8VFA7
+Protein_or_Gene_Name: Olfactory receptor 1393
+All_Possible_Protein_and_Gene_Names: Olfactory receptor 1393; Olfr1393; Olfactory receptor
+Title: Loss of renal olfactory receptor 1393 leads to improved glucose homeostasis in a type 1 diabetic mouse model.
+Abstract: Renal olfactory receptor 1393 (Olfr1393) is an understudied sensory receptor that contributes to glucose handling in the proximal tubule. Our previous studies have indicated that this receptor may serve as a regulator of the sodium glucose co-transporters (SGLTs) and contributes to the development of glucose intolerance and hyperfiltration in the setting of diet-induced obesity. We hypothesized that Olfr1393 may have a similar function in Type 1 Diabetes. Using Olfr1393 wildtype (WT) and knockout (KO) mice along with streptozotocin (STZ) to induce pancreatic β-cell depletion, we tracked the development and progression of diabetes over 12 weeks. Here we report that diabetic male Olfr1393 KO mice have a significant improvement in hyperglycemia and glucose tolerance, despite remaining susceptible to STZ. We also confirm that Olfr1393 localizes to the renal proximal tubule, and have uncovered additional expression within the glomerulus. Collectively, these data indicate that loss of renal Olfr1393 affords protection from STZ-induced type 1 diabetes and may be a general regulator of glucose handling in both health and disease.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_065
+PMID: 33343547
+UniProtKB_Accession: D4GQI5
+Protein_or_Gene_Name: ACS7
+All_Possible_Protein_and_Gene_Names: ACS7; Acetyl-CoA synthetase; EC:6.2.1.1; Acetate--CoA ligase
+Title: Acetate Metabolism in Archaea: Characterization of an Acetate Transporter and of Enzymes Involved in Acetate Activation and Gluconeogenesis in Haloferax volcanii.
+Abstract: The haloarchaeon Haloferax volcanii grows on acetate as sole carbon and energy source. The genes and proteins involved in uptake and activation of acetate and in gluconeogenesis were identified and analyzed by characterization of enzymes and by growth experiments with the respective deletion mutants. (i) An acetate transporter of the sodium: solute-symporter family (SSF) was characterized by kinetic analyses of acetate uptake into H. volcanii cells. The functional involvement of the transporter was proven with a Δssf mutant. (ii) Four paralogous AMP-forming acetyl-CoA synthetases that belong to different phylogenetic clades were shown to be functionally involved in acetate activation. (iii) The essential involvement of the glyoxylate cycle as an anaplerotic sequence was concluded from growth experiments with an isocitrate lyase knock-out mutant excluding the operation of the methylaspartate cycle reported for Haloarcula species. (iv) Enzymes involved in phosphoenolpyruvate synthesis from acetate, namely two malic enzymes and a phosphoenolpyruvate synthetase, were identified and characterized. Phylogenetic analyses of haloarchaeal malic enzymes indicate a separate evolutionary line distinct from other archaeal homologs. The exclusive function of phosphoenolpyruvate synthetase in gluconeogenesis was proven by the respective knock-out mutant. Together, this is a comprehensive study of acetate metabolism in archaea.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_071
+PMID: 30578317
+UniProtKB_Accession: Q15006
+Protein_or_Gene_Name: EMC2
+All_Possible_Protein_and_Gene_Names: EMC2; Tetratricopeptide repeat protein 35; ER membrane protein complex subunit 2; KIAA0103; TTC35
+Title: The ER membrane protein complex promotes biogenesis of sterol-related enzymes maintaining cholesterol homeostasis.
+Abstract: The eukaryotic endoplasmic reticulum (ER) membrane contains essential complexes that oversee protein biogenesis and lipid metabolism, impacting nearly all aspects of cell physiology. The ER membrane protein complex (EMC) is a newly described transmembrane domain (TMD) insertase linked with various phenotypes, but whose clients and cellular responsibilities remain incompletely understood. We report that EMC deficiency limits the cellular boundaries defining cholesterol tolerance, reflected by diminished viability with limiting or excessive extracellular cholesterol. Lipidomic and proteomic analyses revealed defective biogenesis and concomitant loss of the TMD-containing ER-resident enzymes sterol-O-acyltransferase 1 (SOAT1) and squalene synthase (SQS, also known as FDFT1), which serve strategic roles in the adaptation of cells to changes in cholesterol availability. Insertion of the weakly hydrophobic tail-anchor (TA) of SQS into the ER membrane by the EMC ensures sufficient flux through the sterol biosynthetic pathway while biogenesis of polytopic SOAT1 promoted by the EMC provides cells with the ability to store free cholesterol as inert cholesteryl esters. By facilitating insertion of TMDs that permit essential mammalian sterol-regulating enzymes to mature accurately, the EMC is an important biogenic determinant of cellular robustness to fluctuations in cholesterol availability.This article has an associated First Person interview with the first author of the paper.
+Evidence_Source: Abstract
+
+---
+
+Test_ID: FVAL_072
+PMID: 35468894
+UniProtKB_Accession: A0A384JF20
+Protein_or_Gene_Name: BcPINE1
+All_Possible_Protein_and_Gene_Names: BcPINE1; PGIP-inactivating effector 1
+Title: A fungal extracellular effector inactivates plant polygalacturonase-inhibiting protein.
+Abstract: Plant pathogens degrade cell wall through secreted polygalacturonases (PGs) during infection. Plants counteract the PGs by producing PG-inhibiting proteins (PGIPs) for protection, reversibly binding fungal PGs, and mitigating their hydrolytic activities. To date, how fungal pathogens specifically overcome PGIP inhibition is unknown. Here, we report an effector, Sclerotinia sclerotiorum PGIP-INactivating Effector 1 (SsPINE1), which directly interacts with and functionally inactivates PGIP. S. sclerotiorum is a necrotrophic fungus that causes stem rot diseases on more than 600 plant species with tissue maceration being the most prominent symptom. SsPINE1 enhances S. sclerotiorum necrotrophic virulence by specifically interacting with host PGIPs to negate their polygalacturonase-inhibiting function via enhanced dissociation of PGIPs from PGs. Targeted deletion of SsPINE1 reduces the fungal virulence. Ectopic expression of SsPINE1 in plant reduces its resistance against S. sclerotiorum. Functional and genomic analyses reveal a conserved virulence mechanism of cognate PINE1 proteins in broad host range necrotrophic fungal pathogens.
+Evidence_Source: Abstract
+
+---

@@ -1,0 +1,10 @@
+24943072|t|Radical S-adenosyl methionine epimerases: regioselective introduction of diverse D-amino acid patterns into peptide natural products.
+24943072|a|PoyD is a radical S-adenosyl methionine epimerase that introduces multiple D-configured amino acids at alternating positions into the highly complex marine peptides polytheonamide A and B. This novel post-translational modification contributes to the ability of the polytheonamides to form unimolecular minimalistic ion channels and its cytotoxic activity at picomolar levels. Using a genome mining approach we have identified additional PoyD homologues in various bacteria. Three enzymes were expressed in E. coli with their cognate as well as engineered peptide precursors and shown to introduce diverse D-amino acid patterns into all-L peptides. The data reveal a family of architecturally and functionally distinct enzymes that exhibit high regioselectivity, substrate promiscuity, and irreversible action and thus provide attractive opportunities for peptide engineering. 
+24943072	8	29	S-adenosyl methionine	Chemical	MESH:D012436
+24943072	81	93	D-amino acid	Chemical	-
+24943072	299	322	polytheonamide A and B.	Chemical	-
+24943072	400	415	polytheonamides	Chemical	-
+24943072	471	480	cytotoxic	Disease	MESH:D064420
+24943072	641	648	E. coli	Species	562
+24943072	740	752	D-amino acid	Chemical	-
+

@@ -1,0 +1,20 @@
+33343547|t|Acetate Metabolism in Archaea: Characterization of an Acetate Transporter and of Enzymes Involved in Acetate Activation and Gluconeogenesis in Haloferax volcanii.
+33343547|a|The haloarchaeon Haloferax volcanii grows on acetate as sole carbon and energy source. The genes and proteins involved in uptake and activation of acetate and in gluconeogenesis were identified and analyzed by characterization of enzymes and by growth experiments with the respective deletion mutants. (i) An acetate transporter of the sodium: solute-symporter family (SSF) was characterized by kinetic analyses of acetate uptake into H. volcanii cells. The functional involvement of the transporter was proven with a Deltassf mutant. (ii) Four paralogous AMP-forming acetyl-CoA synthetases that belong to different phylogenetic clades were shown to be functionally involved in acetate activation. (iii) The essential involvement of the glyoxylate cycle as an anaplerotic sequence was concluded from growth experiments with an isocitrate lyase knock-out mutant excluding the operation of the methylaspartate cycle reported for Haloarcula species. (iv) Enzymes involved in phosphoenolpyruvate synthesis from acetate, namely two malic enzymes and a phosphoenolpyruvate synthetase, were identified and characterized. Phylogenetic analyses of haloarchaeal malic enzymes indicate a separate evolutionary line distinct from other archaeal homologs. The exclusive function of phosphoenolpyruvate synthetase in gluconeogenesis was proven by the respective knock-out mutant. Together, this is a comprehensive study of acetate metabolism in archaea.
+33343547	0	7	Acetate	Chemical	MESH:D000085
+33343547	101	108	Acetate	Chemical	MESH:D000085
+33343547	143	161	Haloferax volcanii	Species	2246
+33343547	180	198	Haloferax volcanii	Species	2246
+33343547	208	215	acetate	Chemical	MESH:D000085
+33343547	224	230	carbon	Chemical	MESH:D002244
+33343547	310	317	acetate	Chemical	MESH:D000085
+33343547	578	585	acetate	Chemical	MESH:D000085
+33343547	598	609	H. volcanii	Species	2246
+33343547	841	848	acetate	Chemical	MESH:D000085
+33343547	900	910	glyoxylate	Chemical	MESH:C031150
+33343547	1055	1070	methylaspartate	Chemical	-
+33343547	1090	1108	Haloarcula species	Species	
+33343547	1135	1154	phosphoenolpyruvate	Chemical	MESH:D010728
+33343547	1170	1177	acetate	Chemical	MESH:D000085
+33343547	1572	1579	acetate	Chemical	MESH:D000085
+33343547	Association	MESH:D000085	MESH:D010728
+

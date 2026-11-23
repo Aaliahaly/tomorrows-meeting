@@ -1,0 +1,15 @@
+38287013|t|A universal metabolite repair enzyme removes a strong inhibitor of the TCA cycle.
+38287013|a|A prevalent side-reaction of succinate dehydrogenase oxidizes malate to enol-oxaloacetate (OAA), a metabolically inactive form of OAA that is a strong inhibitor of succinate dehydrogenase. We purified from cow heart mitochondria an enzyme (OAT1) with OAA tautomerase (OAT) activity that converts enol-OAA to the physiological keto-OAA form, and determined that it belongs to the highly conserved and previously uncharacterized Fumarylacetoacetate_hydrolase_domain-containing protein family. From all three domains of life, heterologously expressed proteins were shown to have strong OAT activity, and ablating the OAT1 homolog caused significant growth defects. In Escherichia coli, expression of succinate dehydrogenase was necessary for OAT1-associated growth defects to occur, and ablating OAT1 caused a significant increase in acetate and other metabolites associated with anaerobic respiration. OAT1 increased the succinate dehydrogenase reaction rate by 35% in in vitro assays with physiological concentrations of both succinate and malate. Our results suggest that OAT1 is a universal metabolite repair enzyme that is required to maximize aerobic respiration efficiency by preventing succinate dehydrogenase inhibition.
+38287013	71	74	TCA	Chemical	MESH:D014238
+38287013	144	150	malate	Chemical	MESH:C030298
+38287013	154	171	enol-oxaloacetate	Chemical	-
+38287013	173	176	OAA	Chemical	-
+38287013	212	215	OAA	Chemical	-
+38287013	288	291	cow	Species	9913
+38287013	378	386	enol-OAA	Chemical	-
+38287013	408	416	keto-OAA	Chemical	-
+38287013	747	763	Escherichia coli	Species	562
+38287013	913	920	acetate	Chemical	MESH:D000085
+38287013	1107	1116	succinate	Chemical	MESH:D019802
+38287013	1121	1127	malate	Chemical	MESH:C030298
+

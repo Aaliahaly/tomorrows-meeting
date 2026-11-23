@@ -1,0 +1,21 @@
+39856097|t|Diet-derived urolithin A is produced by a dehydroxylase encoded by human gut Enterocloster species.
+39856097|a|Urolithin A (uroA) is a polyphenol derived from the multi-step metabolism of dietary ellagitannins by the human gut microbiota. Once absorbed, uroA can trigger mitophagy and aryl hydrocarbon receptor signaling pathways, altering host immune function, mitochondrial health, and intestinal barrier integrity. Most individuals harbor a microbiota capable of uroA production; however, the mechanisms underlying the dehydroxylation of its catechol-containing precursor (uroC) are unknown. Here, we use a combination of untargeted bacterial transcriptomics, proteomics, and comparative genomics to uncover an inducible uroC dehydroxylase (ucd) operon in Enterocloster species. We show that the ucd operon encodes a predicted molybdopterin-dependent enzyme complex that dehydroxylates urolithins at a specific position (9-OH). By interrogating publicly available metagenomics datasets, we observed that uroC-metabolizing Enterocloster species and ucd operon genes are prevalent in human feces. In ex vivo experiments with human fecal samples, only samples actively transcribing ucd could produce uroA, possibly explaining differences in urolithin metabolism between individuals. Collectively, this work identifies Enterocloster species and the ucd operon as important contributors to uroA production and establishes a multi-omics framework to further our mechanistic understanding of polyphenol metabolism by the human gut microbiota.
+39856097	67	72	human	Species	9606
+39856097	100	111	Urolithin A	Chemical	MESH:C026423
+39856097	113	117	uroA	Chemical	MESH:C026423
+39856097	124	134	polyphenol	Chemical	MESH:D059808
+39856097	185	198	ellagitannins	Chemical	MESH:D047348
+39856097	206	211	human	Species	9606
+39856097	243	247	uroA	Chemical	MESH:C026423
+39856097	274	299	aryl hydrocarbon receptor	Gene	196
+39856097	455	459	uroA	Chemical	MESH:C026423
+39856097	534	542	catechol	Chemical	MESH:C034221
+39856097	878	888	urolithins	Chemical	-
+39856097	1074	1079	human	Species	9606
+39856097	1115	1120	human	Species	9606
+39856097	1189	1193	uroA	Chemical	MESH:C026423
+39856097	1377	1381	uroA	Chemical	MESH:C026423
+39856097	1477	1487	polyphenol	Chemical	MESH:D059808
+39856097	1506	1511	human	Species	9606
+39856097	Positive_Correlation	MESH:C026423	196
+

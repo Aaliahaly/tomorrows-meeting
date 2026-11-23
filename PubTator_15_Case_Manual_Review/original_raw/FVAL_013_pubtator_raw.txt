@@ -1,0 +1,11 @@
+41132155|t|The small bacterial membrane protein YohP induces nucleoid condensation in E. coli and inhibits oligomerization of antimicrobial peptides.
+41132155|a|Prokaryotic organisms execute multiple stress response mechanisms in order to cope with rapidly changing environments. Some mechanisms respond to specific cues, such as the OxyR-dependent response to hydrogen peroxide or the SOS-response that is induced upon DNA-damage. These specific responses complement general mechanisms that respond to multiple and diverse stressors. One example is nucleoid condensation, which is a rapid and effective mechanism for genome protection and observed in response to various stresses, including entry into stationary phase. Recently, the upregulation of small membrane proteins (SMPs) in response to stress was observed, but details on how this emerging class of proteins modulate the stress response is largely unknown. Here, we demonstrate that the production of two SMPs, YohP and YncL, cause nucleoid condensation in Escherichia coli. Nucleoid condensation is the result of YohP-/YncL-induced sublethal membrane depolarization, which induces the phage-shock response and leads to a reduction of global protein synthesis. YohP production also prevents the oligomerization of the antimicrobial peptide magainin-2 in the E. coli membrane and reduces the metabolic activity of E. coli cells. Thus, the synthesis of YohP and likely of other SMPs potentially protects bacterial cells against some unfavorable conditions by shifting them into a metabolically silent state.
+41132155	75	82	E. coli	Species	562
+41132155	339	356	hydrogen peroxide	Chemical	MESH:D006861
+41132155	996	1012	Escherichia coli	Species	562
+41132155	1200	1204	YohP	Chemical	-
+41132155	1279	1289	magainin-2	Chemical	-
+41132155	1297	1304	E. coli	Species	562
+41132155	1352	1359	E. coli	Species	562
+41132155	1390	1394	YohP	Chemical	-
+

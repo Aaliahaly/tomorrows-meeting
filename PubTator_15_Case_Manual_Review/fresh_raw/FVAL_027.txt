@@ -1,0 +1,8 @@
+33044064|t|Genome Modularization Reveals Overlapped Gene Topology Is Necessary for Efficient Viral Reproduction.
+33044064|a|Sequence overlap between two genes is common across all genomes, with viruses having high proportions of these gene overlaps. Genome modularization and refactoring is the process of disrupting natural gene overlaps to separate coding sequences to enable their individual manipulation. The biological function and fitness effects of gene overlaps are not fully understood, and their effects on gene cluster and genome-level refactoring are unknown. The bacteriophage phiX174 genome has ~26% of nucleotides involved in encoding more than one gene. In this study we use an engineered phiX174 phage containing a genome with all gene overlaps removed to show that gene overlap is critical to maintaining optimal viral fecundity. Through detailed phenotypic measurements we reveal that genome modularization in phiX174 causes virion replication, stability, and attachment deficiencies. Quantitation of the complete phage proteome across an infection cycle reveals 30% of proteins display abnormal expression patterns. Taken together, we have for the first time comprehensively demonstrated that gene modularization severely perturbs the coordinated functioning of a bacteriophage replication cycle. This work highlights the biological importance of gene overlap in natural genomes and that reducing gene overlap disruption should be an integral part of future genome engineering projects.
+33044064	554	567	bacteriophage	Species	38018
+33044064	568	575	phiX174	Species	
+33044064	683	690	phiX174	Species	
+33044064	907	914	phiX174	CellLine	CVCL:U955
+33044064	1262	1275	bacteriophage	Species	38018
+

@@ -1,0 +1,47 @@
+26558717|t|Mycobacterial receptor, Clec4d (CLECSF8, MCL), is coregulated with Mincle and upregulated on mouse myeloid cells following microbial challenge.
+26558717|a|The C-type lectin receptor (CTLR), Clec4d (MCL, CLECSF8), is a member of the Dectin-2 cluster of CTLRs, which also includes the related receptors Mincle and Dectin-2. Like Mincle, Clec4d recognizes mycobacterial cord factor, trehalose dimycolate, and we recently demonstrated its key role in anti-mycobacterial immunity in mouse and man. Here, we characterized receptor expression in naive mice, under inflammatory conditions, and during Mycobacterium bovis BCG infection using newly generated monoclonal antibodies. In naive mice, Clec4d was predominantly expressed on myeloid cells within the peritoneal cavity, blood, and bone marrow. Unexpectedly, basal expression of Clec4d was very low on leukocytes in the lung. However, receptor expression was significantly upregulated on pulmonary myeloid cells during M. bovis BCG infection. Moreover, Clec4d expression could be strongly induced in vitro and in vivo by various microbial stimuli, including TLR agonists, but not exogenous cytokines. Notably, we show that Clec4d requires association with the signaling adaptor FcRgamma and Mincle, but not Dectin-2, for surface expression. In addition, we provide evidence that Clec4d and Mincle, but not Dectin-2, are interdependently coregulated during inflammation and infection. These data show that Clec4d is an inducible myeloid-expressed CTLR in mice, whose expression is tightly linked to that of Mincle. 
+26558717	24	30	Clec4d	Gene	17474
+26558717	32	39	CLECSF8	Gene	17474
+26558717	41	44	MCL	Gene	17474
+26558717	67	73	Mincle	Gene	56619
+26558717	93	98	mouse	Species	10090
+26558717	179	185	Clec4d	Gene	17474
+26558717	187	190	MCL	Gene	17474
+26558717	192	199	CLECSF8	Gene	17474
+26558717	221	229	Dectin-2	Gene	56620
+26558717	290	296	Mincle	Gene	56619
+26558717	301	309	Dectin-2	Gene	56620
+26558717	316	322	Mincle	Gene	56619
+26558717	324	330	Clec4d	Gene	17474
+26558717	369	389	trehalose dimycolate	Chemical	MESH:D003311
+26558717	467	472	mouse	Species	10090
+26558717	477	480	man	Species	
+26558717	534	538	mice	Species	10090
+26558717	546	558	inflammatory	Disease	MESH:D007249
+26558717	582	601	Mycobacterium bovis	Species	1765
+26558717	602	615	BCG infection	Disease	MESH:C565907
+26558717	670	674	mice	Species	10090
+26558717	676	682	Clec4d	Gene	17474
+26558717	816	822	Clec4d	Gene	17474
+26558717	956	978	M. bovis BCG infection	Species	
+26558717	990	996	Clec4d	Gene	17474
+26558717	1160	1166	Clec4d	Gene	17474
+26558717	1215	1223	FcRgamma	Gene	14127
+26558717	1228	1234	Mincle	Gene	56619
+26558717	1244	1252	Dectin-2	Gene	56620
+26558717	1316	1322	Clec4d	Gene	17474
+26558717	1327	1333	Mincle	Gene	56619
+26558717	1343	1351	Dectin-2	Gene	56620
+26558717	1393	1405	inflammation	Disease	MESH:D007249
+26558717	1410	1419	infection	Disease	MESH:D007239
+26558717	1442	1448	Clec4d	Gene	17474
+26558717	1491	1495	mice	Species	10090
+26558717	1543	1549	Mincle	Gene	56619
+26558717	Association	MESH:D007239	56619
+26558717	Association	14127	17474
+26558717	Association	17474	56619
+26558717	Bind	MESH:D003311	56619
+26558717	Association	MESH:D007239	17474
+26558717	Bind	MESH:D003311	17474
+26558717	Association	MESH:D007249	56619
+

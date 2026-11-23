@@ -1,0 +1,18 @@
+7814013|t|PKU in Slovakia: mutation screening and haplotype analysis.
+7814013|a|The restriction fragment length polymorphism haplotypes and seven common mutations in the phenylalanine hydroxylase gene were analysed in 49 unrelated Slovak phenylketonuria (PKU) families of Caucasian origin. The predominant mutation in this population sample is R408W, with a frequency of 45.9%. In addition, four other mutations have been identified at relatively high frequencies: IVS12nt1, 10.2%; R158Q, 7.1%; R261Q, 7.1%; R252W, 2.0%. The mutation-haplotype associations correspond to those described in other European populations. The high proportion of mutations (72.4%) amenable to simple rapid detection based on the polymerase chain reaction provides a good basis for direct DNA-diagnosis of PKU in the Slovak population.
+7814013	0	3	PKU	Disease	MESH:D010661
+7814013	150	175	phenylalanine hydroxylase	Gene	5053
+7814013	218	233	phenylketonuria	Disease	MESH:D010661
+7814013	235	238	PKU	Disease	MESH:D010661
+7814013	324	329	R408W	ProteinMutation	tmVar:p|SUB|R|408|W;HGVS:p.R408W;VariantGroup:1;CorrespondingGene:5053;RS#:5030858;CorrespondingSpecies:9606;CA#:251523
+7814013	462	467	R158Q	ProteinMutation	tmVar:p|SUB|R|158|Q;HGVS:p.R158Q;VariantGroup:0;CorrespondingGene:5053;RS#:5030843;CorrespondingSpecies:9606;CA#:251530
+7814013	475	480	R261Q	ProteinMutation	tmVar:p|SUB|R|261|Q;HGVS:p.R261Q;VariantGroup:3;CorrespondingGene:5053;RS#:5030849;CorrespondingSpecies:9606;CA#:251528
+7814013	488	493	R252W	ProteinMutation	tmVar:p|SUB|R|252|W;HGVS:p.R252W;VariantGroup:2;CorrespondingGene:5053;RS#:5030847;CorrespondingSpecies:9606;CA#:251529
+7814013	763	766	PKU	Disease	MESH:D010661
+7814013	Association	MESH:D010661	RS#:5030858;HGVS:p.R408W;CorrespondingGene:5053
+7814013	Association	MESH:D010661	RS#:5030849;HGVS:p.R261Q;CorrespondingGene:5053
+7814013	Association	MESH:D010661	RS#:5030843;HGVS:p.R158Q;CorrespondingGene:5053
+7814013	Association	MESH:D010661	RS#:5030847;HGVS:p.R252W;CorrespondingGene:5053
+7814013	Association	MESH:D010661	5053
+7814013	Association	MESH:D010661	5053
+
